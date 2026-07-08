@@ -1,8 +1,8 @@
-# Hi there, I'm Ersin Seçer! 👋
+# Hi there, I'm Ersin! 👋
 
 ### 🚀 Software Developer & Tech Enthusiast
 
-I am passionate about continuously improving myself in the software world, learning new technologies, and solving complex problems. I build projects across a wide spectrum, ranging from mobile development to embedded systems and modern web solutions.
+I am passionate about continuously improving myself in the software world, learning new technologies, and solving complex problems. I build projects across a wide spectrum, ranging from mobile development to modern web solutions.
 
 ---
 
