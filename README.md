@@ -10,7 +10,7 @@ I am passionate about continuously improving myself in the software world, learn
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & Web (.NET)** | `.NET Core / 8+`, `ASP.NET Core API`, `Blazor` |
+| **Backend & Web** | `.NET Core / 8+`, `ASP.NET Core API`, `Blazor`, `React`, `Next.js`, `Angular`, `VueJS` |
 | **Mobile Development** | `Flutter`, `BLoC / Provider / Riverpod` *(State Management)* |
 | **Databases** | `MS SQL Server`, `PostgreSQL`, `MongoDB`, `SQLite`, `Redis` |
 | **Architecture & DevOps** | `REST APIs`, `Microservices`, `Clean Architecture`, `Docker`, `CI/CD` |
