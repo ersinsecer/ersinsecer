@@ -31,7 +31,7 @@ I am passionate about continuously improving myself in the software world, learn
 
 I'm always open to collaborating on interesting projects, contributing to open-source, or just chatting about technology!
 
-*   💼 **LinkedIn:** [linkedin.com/in/ersinsecer](https://linkedin.com/in/ersinsecer) *(Update with your actual link)*
+*   💼 **LinkedIn:** [linkedin.com/in/ersinsecer](https://linkedin.com/in/ersinsecer)
 
 ---
 <p align="center">Thank you for visiting my profile! Don't forget to leave a ⭐ if you like my work.</p>
