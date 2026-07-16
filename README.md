@@ -24,6 +24,7 @@ I am passionate about continuously improving myself in the software world, learn
 
 *   **Mobile Applications:** User-friendly mobile solutions developed using Flutter.
 *   **Web Development:** Dynamic and responsive web interfaces built with modern JavaScript/TypeScript libraries.
+*   **Backend Development:** Scalable and secure backend services developed using .NET, featuring RESTful APIs, database integration, authentication, and high-performance architectures.
 
 ---
 
